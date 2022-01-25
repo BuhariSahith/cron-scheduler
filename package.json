@@ -1,0 +1,16 @@
+{
+  "name": "cron-node",
+  "version": "1.0.0",
+  "description": "Exploring on scheduler ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node email.js"
+  },
+  "author": "BuharSahith",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
+    "express": "^4.17.2",
+    "node-cron": "^3.0.0"
+  }
+}
