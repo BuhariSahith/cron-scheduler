@@ -1,4 +1,4 @@
-const API = "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"
+const API = "YOUR API_KEY"
 var nodeCron = require('node-cron');
 
 const sendGridMail = require('@sendgrid/mail');
